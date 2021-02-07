@@ -1,0 +1,2 @@
+heello this is first try what i write should be inside a file it's just like the file handeling in c programming that i had done but it's really easy here and so much more to do here i am loving bash scripting :: 
+ -----i amtriyng to enter sth for appending 
