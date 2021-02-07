@@ -44,8 +44,29 @@ else
 
 #so now after the condiotional starting the loop
 
+#so for the loops :i am gonna use while loop,until loop,for loops,break and 
+
+cat << comment
+
+number =1
+while [ $number -lt 10 ]
+do 
+	echo "$number"
+	number=$((n+1))
+comment
+
+#so lets have a read.me doc about the bash scripting from the loop
 
 
 
 
-fi
+
+
+
+
+
+
+
+
+
+
